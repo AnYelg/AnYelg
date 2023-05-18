@@ -2,7 +2,6 @@
 I am a software engineer student with interest in FrontEnd and web development. I can design and develop software components, based on requirements. I can also integrate some security components into computer applications.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnYelg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnYelg&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnYelg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Tech Stack:
